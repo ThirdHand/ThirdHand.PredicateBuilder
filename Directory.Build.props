@@ -1,0 +1,11 @@
+<Project>
+	<PropertyGroup>
+		<NoWarn>CS8632;RS0016</NoWarn>
+		<WarningsAsErrors>xUnit1030;CS1591;XFA001;MFA001;</WarningsAsErrors>
+		<EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
+		<DefineConstants>JETBRAINS_ANNOTATIONS</DefineConstants>
+		<LangVersion>12</LangVersion>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<SatelliteResourceLanguages>en;ru</SatelliteResourceLanguages>
+	</PropertyGroup>
+</Project>

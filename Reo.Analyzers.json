@@ -1,0 +1,16 @@
+{
+  "XmlDoc": {
+    "Types": {
+      "CancellationToken": "Токен отмены операции"
+    },
+    "PropertiesOrParameters": {
+      "id": "Идентификатор"
+    },
+    "Methods": {},
+    "InheritdocIgnoreTypes": [
+      "IEnumerable",
+      "IDisposable"
+    ],
+    "InheritdocIgnoreNamespaces": []
+  }
+}
